@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MoviePilot",
+    "repo": "jxxghp/MoviePilot-App",
+    "asset_pattern": "MoviePilot-.+-unsigned\\.ipa",
+    "require_sha256sums": true,
+    "icon_url": "https://raw.githubusercontent.com/jxxghp/MoviePilot-App/main/ios/MoviePilot/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+    "description": "MoviePilot iOS client. Official unsigned GitHub release; sign before installation."
+  },
+  {
+    "name": "qBitController",
+    "repo": "Bartuzen/qBitController",
+    "asset_pattern": "qbitcontroller-.+-ios\\.ipa",
+    "icon_url": "https://raw.githubusercontent.com/Bartuzen/qBitController/master/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
+    "description": "qBittorrent remote controller for iOS. Official GitHub IPA; sign before installation."
+  }
+]
