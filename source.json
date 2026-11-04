@@ -1,0 +1,28 @@
+{
+  "name": "MoviePilot GitHub Source",
+  "identifier": "community.moviepilot.github.source",
+  "subtitle": "Unofficial feed for official unsigned releases",
+  "apps": [
+    {
+      "name": "MoviePilot",
+      "bundleIdentifier": "org.moviepilot.app",
+      "developerName": "jxxghp",
+      "localizedDescription": "MoviePilot iOS client. Unsigned official GitHub release; sign before installation.",
+      "iconURL": "https://raw.githubusercontent.com/jxxghp/MoviePilot-App/main/ios/MoviePilot/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "version": "1.0.7",
+      "versionDate": "2026-10-30T14:30:51Z",
+      "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v1.0.7/MoviePilot-1.0.7-unsigned.ipa",
+      "size": 4173322,
+      "versions": [
+        {
+          "version": "1.0.7",
+          "date": "2026-10-30T14:30:51Z",
+          "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v1.0.7/MoviePilot-1.0.7-unsigned.ipa",
+          "size": 4173322,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
