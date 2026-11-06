@@ -9,16 +9,16 @@
       "developerName": "jxxghp",
       "localizedDescription": "MoviePilot iOS client. Official unsigned GitHub release; sign before installation.",
       "iconURL": "https://raw.githubusercontent.com/jxxghp/MoviePilot-App/main/ios/MoviePilot/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "version": "1.2.0",
-      "versionDate": "2026-11-05T17:28:48Z",
-      "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v1.2.0/MoviePilot-1.2.0-unsigned.ipa",
-      "size": 4225421,
+      "version": "1.2.1",
+      "versionDate": "2026-11-06T13:43:27Z",
+      "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v1.2.1/MoviePilot-1.2.1-unsigned.ipa",
+      "size": 4228943,
       "versions": [
         {
-          "version": "1.2.0",
-          "date": "2026-11-05T17:28:48Z",
-          "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v1.2.0/MoviePilot-1.2.0-unsigned.ipa",
-          "size": 4225421,
+          "version": "1.2.1",
+          "date": "2026-11-06T13:43:27Z",
+          "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v1.2.1/MoviePilot-1.2.1-unsigned.ipa",
+          "size": 4228943,
           "minOSVersion": "16.0"
         }
       ]
