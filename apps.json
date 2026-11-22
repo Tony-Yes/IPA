@@ -18,7 +18,7 @@
     "name": "轻悦时光",
     "repo": "autobcb/qysg",
     "asset_pattern": "^ios\\d+\\.ipa$",
-    "require_sha256sums": true,
+    "require_sha256sums": false,
     "icon_url": "https://image.goapk.com/goapk/imgfile/20261023/23173711tf4x.png",
     "description": "一款多平台可用的阅读软件，通过 webview 来运行书源以达到多平台兼容的效果。; sign before installation."
   }
