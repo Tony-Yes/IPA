@@ -19,7 +19,7 @@
     "repo": "autobcb/qysg",
     "asset_pattern": "^ios\\d+\\.ipa$",
     "require_sha256sums": false,
-    "icon_url": "https://image.goapk.com/goapk/imgfile/20261023/23173711tf4x.png",
-    "description": "一款多平台可用的阅读软件，通过 webview 来运行书源以达到多平台兼容的效果。; sign before installation."
+    "icon_url": "https://www.ipapark.com/wp-content/uploads/2026/02/20260208160845624-资源图标2.png",
+    "description": "一款多平台可用的阅读软件，通过 webview 来运行书源以达到多平台兼容的效果。"
   }
 ]
