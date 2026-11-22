@@ -42,6 +42,26 @@
           "minOSVersion": "14.0"
         }
       ]
+    },
+    {
+      "name": "轻悦时光",
+      "bundleIdentifier": "com.q9uo11.nread",
+      "developerName": "autobcb",
+      "localizedDescription": "一款多平台可用的阅读软件，通过 webview 来运行书源以达到多平台兼容的效果。; sign before installation.",
+      "iconURL": "https://image.goapk.com/goapk/imgfile/20261023/23173711tf4x.png",
+      "version": "2.2.1114",
+      "versionDate": "2026-11-13T16:21:11Z",
+      "downloadURL": "https://github.com/autobcb/qysg/releases/download/2.2.1114/ios1114.ipa",
+      "size": 53606146,
+      "versions": [
+        {
+          "version": "2.2.1114",
+          "date": "2026-11-13T16:21:11Z",
+          "downloadURL": "https://github.com/autobcb/qysg/releases/download/2.2.1114/ios1114.ipa",
+          "size": 53606146,
+          "minOSVersion": "15.0"
+        }
+      ]
     }
   ],
   "news": []
