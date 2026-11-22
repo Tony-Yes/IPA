@@ -13,5 +13,13 @@
     "asset_pattern": "qbitcontroller-.+-ios\\.ipa",
     "icon_url": "https://raw.githubusercontent.com/Bartuzen/qBitController/master/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
     "description": "qBittorrent remote controller for iOS. Official GitHub IPA; sign before installation."
+  },
+  {
+    "name": "轻悦时光",
+    "repo": "autobcb/qysg",
+    "asset_pattern": "ios.+-\\.ipa",
+    "require_sha256sums": true,
+    "icon_url": "https://image.goapk.com/goapk/imgfile/20261023/23173711tf4x.png",
+    "description": "一款多平台可用的阅读软件，通过 webview 来运行书源以达到多平台兼容的效果。; sign before installation."
   }
 ]
