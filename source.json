@@ -7,7 +7,7 @@
       "name": "MoviePilot",
       "bundleIdentifier": "com.moviepilot.app",
       "developerName": "jxxghp",
-      "localizedDescription": "MoviePilot iOS client. Official unsigned GitHub release; sign before installation.",
+      "localizedDescription": "MoviePilot 官方 iPhone 和 iPad 客户端。连接自己的 MoviePilot 服务，即可搜索影视、管理追剧订阅和下载任务。GitHub 发布的 IPA 需签名后安装。",
       "iconURL": "https://raw.githubusercontent.com/jxxghp/MoviePilot-App/main/ios/MoviePilot/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
       "version": "2.0.10",
       "versionDate": "2026-11-27T19:37:53Z",
@@ -27,7 +27,7 @@
       "name": "qBitController",
       "bundleIdentifier": "dev.bartuzen.qbitcontroller",
       "developerName": "Bartuzen",
-      "localizedDescription": "qBittorrent remote controller for iOS. Official GitHub IPA; sign before installation.",
+      "localizedDescription": "免费开源的 qBittorrent 远程管理客户端。可连接多台服务器，通过磁力链接或种子文件添加下载，并查看进度、暂停或恢复任务。GitHub 发布的 iOS IPA 需签名后安装。",
       "iconURL": "https://raw.githubusercontent.com/Bartuzen/qBitController/master/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
       "version": "2.2.1",
       "versionDate": "2026-07-28T21:20:24Z",
@@ -48,7 +48,7 @@
       "bundleIdentifier": "com.q9uo11.nread",
       "developerName": "autobcb",
       "localizedDescription": "一款多平台可用的阅读软件，通过 webview 来运行书源以达到多平台兼容的效果。",
-      "iconURL": "https://www.ipapark.com/wp-content/uploads/2026/02/20260208160845624-%E8%B5%84%E6%BA%90%E5%9B%BE%E6%A0%872.png",
+      "iconURL": "https://raw.githubusercontent.com/Tony-Yes/IPA/refs/heads/main/icon/qysg-icon.png",
       "version": "2.2.1114",
       "versionDate": "2026-11-13T16:21:11Z",
       "downloadURL": "https://github.com/autobcb/qysg/releases/download/2.2.1114/ios1114.ipa",
@@ -100,6 +100,26 @@
           "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v3.1.2/HGhubX_3.1.2_ios.ipa",
           "size": 5216729,
           "minOSVersion": "15.0"
+        }
+      ]
+    },
+    {
+      "name": "弦外（MeloX-Overtone）",
+      "bundleIdentifier": "com.aritxonly.legacy.MeloX",
+      "developerName": "AritxOnly",
+      "localizedDescription": "基于 MeloX 独立维护的开源第三方网易云音乐播放器，支持 iOS 和 Apple Watch。GitHub 提供未签名 IPA，需签名后安装。",
+      "iconURL": "https://raw.githubusercontent.com/AritxOnly/MeloX-Overtone/v1.4.1.1/MeloX/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+      "version": "1.4.1",
+      "versionDate": "2026-11-24T16:57:41Z",
+      "downloadURL": "https://github.com/AritxOnly/MeloX-Overtone/releases/download/v1.4.1.1/MeloX-Overtone-v1.4.1.1-unsigned.ipa",
+      "size": 30401470,
+      "versions": [
+        {
+          "version": "1.4.1",
+          "date": "2026-11-24T16:57:41Z",
+          "downloadURL": "https://github.com/AritxOnly/MeloX-Overtone/releases/download/v1.4.1.1/MeloX-Overtone-v1.4.1.1-unsigned.ipa",
+          "size": 30401470,
+          "minOSVersion": "26.0"
         }
       ]
     }
