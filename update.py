@@ -96,7 +96,7 @@ def main():
     if len(failures) == len(configs):
         raise RuntimeError('All app updates failed; source left unchanged')
     source = {
-        'name': 'MoviePilot + qBitController',
+        'name': 'IPA',
         'identifier': 'community.moviepilot.github.source',
         'subtitle': 'Unofficial feed for official GitHub releases',
         'apps': entries, 'news': []
