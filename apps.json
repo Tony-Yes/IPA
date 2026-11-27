@@ -5,21 +5,21 @@
     "asset_pattern": "MoviePilot-.+-unsigned\\.ipa",
     "require_sha256sums": true,
     "icon_url": "https://raw.githubusercontent.com/jxxghp/MoviePilot-App/main/ios/MoviePilot/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-    "description": "MoviePilot iOS client. Official unsigned GitHub release; sign before installation."
+    "description": "MoviePilot 官方 iPhone 和 iPad 客户端。连接自己的 MoviePilot 服务，即可搜索影视、管理追剧订阅和下载任务。GitHub 发布的 IPA 需签名后安装。"
   },
   {
     "name": "qBitController",
     "repo": "Bartuzen/qBitController",
     "asset_pattern": "qbitcontroller-.+-ios\\.ipa",
     "icon_url": "https://raw.githubusercontent.com/Bartuzen/qBitController/master/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
-    "description": "qBittorrent remote controller for iOS. Official GitHub IPA; sign before installation."
+    "description": "免费开源的 qBittorrent 远程管理客户端。可连接多台服务器，通过磁力链接或种子文件添加下载，并查看进度、暂停或恢复任务。GitHub 发布的 iOS IPA 需签名后安装。"
   },
   {
     "name": "轻悦时光",
     "repo": "autobcb/qysg",
     "asset_pattern": "^ios\\d+\\.ipa$",
     "require_sha256sums": false,
-    "icon_url": "https://www.ipapark.com/wp-content/uploads/2026/02/20260208160845624-%E8%B5%84%E6%BA%90%E5%9B%BE%E6%A0%872.png",
+    "icon_url": "https://raw.githubusercontent.com/Tony-Yes/IPA/refs/heads/main/icon/qysg-icon.png",
     "description": "一款多平台可用的阅读软件，通过 webview 来运行书源以达到多平台兼容的效果。"
   },
   {
@@ -37,5 +37,13 @@
     "require_sha256sums": false,
     "icon_url": "https://raw.githubusercontent.com/zxsos/HGhubX/main/src-tauri/icons/ios/AppIcon-512@2x.png",
     "description": "跨平台短剧客户端，支持导入视频源、收藏和局域网同步。GitHub iOS IPA 需重新签名后侧载。"
+  },
+  {
+    "name": "弦外（MeloX-Overtone）",
+    "repo": "AritxOnly/MeloX-Overtone",
+    "asset_pattern": "^MeloX-Overtone-v[0-9]+(\\.[0-9]+){3}-unsigned\\.ipa$",
+    "require_sha256sums": false,
+    "icon_url": "https://raw.githubusercontent.com/AritxOnly/MeloX-Overtone/v1.4.1.1/MeloX/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+    "description": "基于 MeloX 独立维护的开源第三方网易云音乐播放器，支持 iOS 和 Apple Watch。GitHub 提供未签名 IPA，需签名后安装。"
   }
 ]
