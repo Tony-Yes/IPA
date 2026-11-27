@@ -9,16 +9,16 @@
       "developerName": "jxxghp",
       "localizedDescription": "MoviePilot iOS client. Official unsigned GitHub release; sign before installation.",
       "iconURL": "https://raw.githubusercontent.com/jxxghp/MoviePilot-App/main/ios/MoviePilot/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "version": "2.0.8",
-      "versionDate": "2026-11-27T03:33:44Z",
-      "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.8/MoviePilot-2.0.8-ios-unsigned.ipa",
-      "size": 51640679,
+      "version": "2.0.10",
+      "versionDate": "2026-11-27T19:37:53Z",
+      "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.10/MoviePilot-2.0.10-ios-unsigned.ipa",
+      "size": 51818796,
       "versions": [
         {
-          "version": "2.0.8",
-          "date": "2026-11-27T03:33:44Z",
-          "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.8/MoviePilot-2.0.8-ios-unsigned.ipa",
-          "size": 51640679,
+          "version": "2.0.10",
+          "date": "2026-11-27T19:37:53Z",
+          "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.10/MoviePilot-2.0.10-ios-unsigned.ipa",
+          "size": 51818796,
           "minOSVersion": "16.0"
         }
       ]
@@ -89,16 +89,16 @@
       "developerName": "zxsos",
       "localizedDescription": "跨平台短剧客户端，支持导入视频源、收藏和局域网同步。GitHub iOS IPA 需重新签名后侧载。",
       "iconURL": "https://raw.githubusercontent.com/zxsos/HGhubX/main/src-tauri/icons/ios/AppIcon-512@2x.png",
-      "version": "3.0.0",
-      "versionDate": "2026-11-26T14:16:54Z",
-      "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v3.0.0/HGhubX_3.0.0_ios.ipa",
-      "size": 4865415,
+      "version": "3.1.2",
+      "versionDate": "2026-11-27T19:01:14Z",
+      "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v3.1.2/HGhubX_3.1.2_ios.ipa",
+      "size": 5216729,
       "versions": [
         {
-          "version": "3.0.0",
-          "date": "2026-11-26T14:16:54Z",
-          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v3.0.0/HGhubX_3.0.0_ios.ipa",
-          "size": 4865415,
+          "version": "3.1.2",
+          "date": "2026-11-27T19:01:14Z",
+          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v3.1.2/HGhubX_3.1.2_ios.ipa",
+          "size": 5216729,
           "minOSVersion": "15.0"
         }
       ]
