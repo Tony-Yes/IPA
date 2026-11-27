@@ -1,5 +1,5 @@
 {
-  "name": "IPA",
+  "name": "MoviePilot + qBitController",
   "identifier": "community.moviepilot.github.source",
   "subtitle": "Unofficial feed for official GitHub releases",
   "apps": [
@@ -9,16 +9,16 @@
       "developerName": "jxxghp",
       "localizedDescription": "MoviePilot iOS client. Official unsigned GitHub release; sign before installation.",
       "iconURL": "https://raw.githubusercontent.com/jxxghp/MoviePilot-App/main/ios/MoviePilot/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "version": "2.0.6",
-      "versionDate": "2026-11-26T16:14:51Z",
-      "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.6/MoviePilot-2.0.6-ios-unsigned.ipa",
-      "size": 51278859,
+      "version": "2.0.7",
+      "versionDate": "2026-11-27T00:21:39Z",
+      "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.7/MoviePilot-2.0.7-ios-unsigned.ipa",
+      "size": 51600908,
       "versions": [
         {
-          "version": "2.0.6",
-          "date": "2026-11-26T16:14:51Z",
-          "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.6/MoviePilot-2.0.6-ios-unsigned.ipa",
-          "size": 51278859,
+          "version": "2.0.7",
+          "date": "2026-11-27T00:21:39Z",
+          "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.7/MoviePilot-2.0.7-ios-unsigned.ipa",
+          "size": 51600908,
           "minOSVersion": "16.0"
         }
       ]
@@ -48,7 +48,7 @@
       "bundleIdentifier": "com.q9uo11.nread",
       "developerName": "autobcb",
       "localizedDescription": "一款多平台可用的阅读软件，通过 webview 来运行书源以达到多平台兼容的效果。",
-      "iconURL": "https://www.ipapark.com/wp-content/uploads/2026/02/20260208160845624-资源图标2.png",
+      "iconURL": "https://www.ipapark.com/wp-content/uploads/2026/02/20260208160845624-%E8%B5%84%E6%BA%90%E5%9B%BE%E6%A0%872.png",
       "version": "2.2.1114",
       "versionDate": "2026-11-13T16:21:11Z",
       "downloadURL": "https://github.com/autobcb/qysg/releases/download/2.2.1114/ios1114.ipa",
@@ -59,6 +59,46 @@
           "date": "2026-11-13T16:21:11Z",
           "downloadURL": "https://github.com/autobcb/qysg/releases/download/2.2.1114/ios1114.ipa",
           "size": 53606146,
+          "minOSVersion": "15.0"
+        }
+      ]
+    },
+    {
+      "name": "iPadn",
+      "bundleIdentifier": "app.local.iPadn",
+      "developerName": "mengangs",
+      "localizedDescription": "在 iPhone 和 iPad 上搜索、下载和安装你拥有的 App，支持查找历史版本、已下架应用和跨区比价。GitHub 完整版 IPA 需签名后安装。",
+      "iconURL": "https://raw.githubusercontent.com/mengangs/ipadn/main/iPadn-iOS/iPadn/Resources/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
+      "version": "2.3.5",
+      "versionDate": "2026-11-23T15:22:43Z",
+      "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.5/iPadn-2.3.5-unsigned.ipa",
+      "size": 50052300,
+      "versions": [
+        {
+          "version": "2.3.5",
+          "date": "2026-11-23T15:22:43Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.5/iPadn-2.3.5-unsigned.ipa",
+          "size": 50052300,
+          "minOSVersion": "16.0"
+        }
+      ]
+    },
+    {
+      "name": "HGhubX",
+      "bundleIdentifier": "com.hghubx.app",
+      "developerName": "zxsos",
+      "localizedDescription": "跨平台短剧客户端，支持导入视频源、收藏和局域网同步。GitHub iOS IPA 需重新签名后侧载。",
+      "iconURL": "https://raw.githubusercontent.com/zxsos/HGhubX/main/src-tauri/icons/ios/AppIcon-512@2x.png",
+      "version": "3.0.0",
+      "versionDate": "2026-11-26T14:16:54Z",
+      "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v3.0.0/HGhubX_3.0.0_ios.ipa",
+      "size": 4865415,
+      "versions": [
+        {
+          "version": "3.0.0",
+          "date": "2026-11-26T14:16:54Z",
+          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v3.0.0/HGhubX_3.0.0_ios.ipa",
+          "size": 4865415,
           "minOSVersion": "15.0"
         }
       ]
