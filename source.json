@@ -9,16 +9,16 @@
       "developerName": "jxxghp",
       "localizedDescription": "MoviePilot 官方 iPhone 和 iPad 客户端。连接自己的 MoviePilot 服务，即可搜索影视、管理追剧订阅和下载任务。GitHub 发布的 IPA 需签名后安装。",
       "iconURL": "https://raw.githubusercontent.com/jxxghp/MoviePilot-App/main/ios/MoviePilot/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "version": "2.0.10",
-      "versionDate": "2026-11-27T19:37:53Z",
-      "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.10/MoviePilot-2.0.10-ios-unsigned.ipa",
-      "size": 51818796,
+      "version": "2.0.11",
+      "versionDate": "2026-11-28T05:49:25Z",
+      "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.11/MoviePilot-2.0.11-ios-unsigned.ipa",
+      "size": 51880150,
       "versions": [
         {
-          "version": "2.0.10",
-          "date": "2026-11-27T19:37:53Z",
-          "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.10/MoviePilot-2.0.10-ios-unsigned.ipa",
-          "size": 51818796,
+          "version": "2.0.11",
+          "date": "2026-11-28T05:49:25Z",
+          "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v2.0.11/MoviePilot-2.0.11-ios-unsigned.ipa",
+          "size": 51880150,
           "minOSVersion": "16.0"
         }
       ]
@@ -105,20 +105,20 @@
     },
     {
       "name": "弦外（MeloX-Overtone）",
-      "bundleIdentifier": "com.aritxonly.legacy.MeloX",
+      "bundleIdentifier": "com.aritxonly.MeloX",
       "developerName": "AritxOnly",
       "localizedDescription": "基于 MeloX 独立维护的开源第三方网易云音乐播放器，支持 iOS 和 Apple Watch。GitHub 提供未签名 IPA，需签名后安装。",
       "iconURL": "https://raw.githubusercontent.com/AritxOnly/MeloX-Overtone/v1.4.1.1/MeloX/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
       "version": "1.4.1",
-      "versionDate": "2026-11-24T16:57:41Z",
-      "downloadURL": "https://github.com/AritxOnly/MeloX-Overtone/releases/download/v1.4.1.1/MeloX-Overtone-v1.4.1.1-unsigned.ipa",
-      "size": 30401470,
+      "versionDate": "2026-11-28T02:38:08Z",
+      "downloadURL": "https://github.com/AritxOnly/MeloX-Overtone/releases/download/v1.4.1.8/MeloX-Overtone-v1.4.1.8-unsigned.ipa",
+      "size": 37604905,
       "versions": [
         {
           "version": "1.4.1",
-          "date": "2026-11-24T16:57:41Z",
-          "downloadURL": "https://github.com/AritxOnly/MeloX-Overtone/releases/download/v1.4.1.1/MeloX-Overtone-v1.4.1.1-unsigned.ipa",
-          "size": 30401470,
+          "date": "2026-11-28T02:38:08Z",
+          "downloadURL": "https://github.com/AritxOnly/MeloX-Overtone/releases/download/v1.4.1.8/MeloX-Overtone-v1.4.1.8-unsigned.ipa",
+          "size": 37604905,
           "minOSVersion": "26.0"
         }
       ]
